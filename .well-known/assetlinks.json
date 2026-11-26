@@ -1,1 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.innd.anchor",
+      "sha256_cert_fingerprints": [
+        "A4:F3:43:EE:D8:37:43:9D:C9:C1:60:4E:5B:55:85:6D:8E:36:98:A3:58:41:F2:FD:3F:5B:D3:AB:C8:10:0E:9D",
+        "1A:7A:75:5A:79:7B:A7:5C:87:60:C9:E7:41:7F:A1:92:15:DF:5D:93:D8:96:BE:15:6B:F2:49:57:EE:8E:7E:8E"
+      ]
+    }
+  }
+]
 
